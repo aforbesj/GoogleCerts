@@ -2,6 +2,7 @@
 *.csv
 *.docx
 *.png
+*.pptx
 *:Zone.Identifier
 
 # Byte-compiled / optimized / DLL files
