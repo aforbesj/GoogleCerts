@@ -1,7 +1,8 @@
 pandas
 numpy
 ipykernel
-# Week 2
+# BIC2W2
 apache-beam[gcp]
 python-dotenv
+# BIC2W4
 db-dtypes
