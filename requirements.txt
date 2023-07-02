@@ -4,3 +4,4 @@ ipykernel
 # Week 2
 apache-beam[gcp]
 python-dotenv
+db-dtypes
